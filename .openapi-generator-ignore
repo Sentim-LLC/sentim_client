@@ -1,0 +1,9 @@
+# OpenAPI Generator Ignore
+# Lines beginning with a # are comments
+
+# don't replace any files that start with auth.py
+auth.py
+test_client.py
+
+.project
+.pydevproject
